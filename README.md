@@ -1,6 +1,6 @@
 # Repita-comigo
 
-<h3>Exercicios de JavaScript passados pelo professor Gabriel Augusto do Instituto Proa</h3>
+<h3>Exercicios de HTML e JavaScript passados pelo professor Gabriel Augusto do Instituto Proa</h3>
 
 <p>1 - Escreva um algoritmo para ler 2 valores informados pelo usuário e se o segundo valor informado for ZERO, deve ser lido um novo valor, ou seja, para o segundo valor não pode ser aceito o valor zero nem negativo e imprimir o resultado da divisão do primeiro valor lido pelo segundo valor lido.</p>
 
